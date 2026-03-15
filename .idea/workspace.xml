@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bde7de6c-2adb-45c9-b085-42446aede2db" name="Changes" comment="Seminarul 1">
+    <list default="true" id="bde7de6c-2adb-45c9-b085-42446aede2db" name="Changes" comment="Recapitulare Java">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -68,7 +68,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Stefa/IdeaProjects/CTS",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Stefa/IdeaProjects/CTS/Recapitulare/classes/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Stefa/IdeaProjects/CTS/singleton2/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773569004886</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Recapitulare Java">
+      <option name="closed" value="true" />
+      <created>1773570064495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773570064495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminarul 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminarul 1" />
+    <MESSAGE value="Recapitulare Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recapitulare Java" />
   </component>
 </project>
