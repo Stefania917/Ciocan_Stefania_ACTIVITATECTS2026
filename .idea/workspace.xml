@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bde7de6c-2adb-45c9-b085-42446aede2db" name="Changes" comment="Seminarul 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/dispozitive/Dispozitiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/dispozitive/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/dispozitive/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/dispozitive/Smartwatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/factory/FabricaAbstracta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/factory/LaptopFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/factory/SmartphoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/factory/SmartwatchFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/program/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/dispozitive/Dispozitiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/dispozitive/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/dispozitive/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/dispozitive/Smartwatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/factory/FabricaDispozitive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/factory/TipDispozitiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/program/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton/Singleton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton/src/aplicatii/AplicatieMobila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton/src/aplicatii/AplicatieMobila2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton/src/program/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,16 +58,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.Program.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Stefa/IdeaProjects/CTS",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Stefa/IdeaProjects/CTS/FactoryMethod/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Stefa/IdeaProjects/CTS/Recapitulare/classes/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -133,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773566069127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seminarul 1">
+      <option name="closed" value="true" />
+      <created>1773569004886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773569004886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
